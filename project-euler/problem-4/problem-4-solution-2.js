@@ -34,9 +34,6 @@ function findMaxPalindrome(factors) {
   return max;
 }
 
-let start = new Date();
 let numArr = buildArray(100,999);
 let factors = getFactors(numArr);
 console.log(findMaxPalindrome(factors));
-let end = new Date();
-console.log(end - start);
