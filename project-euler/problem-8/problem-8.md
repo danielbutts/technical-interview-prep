@@ -25,5 +25,5 @@ The four adjacent digits in the 1000‐digit number that have the greatest produ
 Find the thirteen adjacent digits in the 1000‐digit number that have the greatest product. What is the value of this product?
 
 #### Solution 1: [problem-8.js](./problem-8.js)
-* Time Complexity: 
-* Space Complexity: 
+* Time Complexity: O(n)
+* Space Complexity: O(n)
