@@ -7,3 +7,4 @@ Project Euler Problems
 6. [Sum square difference](./problem-6/problem-6.md)
 7. [10001st prime](./problem-7/problem-7.md)
 8. [Largest product in a series](./problem-8/problem-8.md)
+9. [Special Pythagorean triplet](./problem-9/problem-9.md)
